@@ -7,13 +7,13 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 Soy Estudiante de DAM
+- 🔭 Soy Desarrollador especializado en IA y Big Data
   
-- 🌱 Estoy aprendiendo Sql, Java, GitHub, python y Angular
+- 🌱 He cursado DAM y una especializacion en IA y Big Data
   
-- 👯 Me gustaria coolaborar en Proyectos y aprender de profesionales del sector
+- 👯 Me gustaria encontrar mi primera oportunidad laboral en el sector
   
-- ⚡ Fun fact: Me gusta el futbol.
+- ⚡ Fun fact: Me encanta todo lo relacionado con la IA y las automatizaciones.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Marioph03?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
